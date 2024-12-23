@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gnopeag.github.io</id>
+    <title>Gnopeag</title>
+    <updated>2024-12-23T03:03:32.502Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gnopeag.github.io"/>
+    <link rel="self" href="https://gnopeag.github.io/atom.xml"/>
+    <subtitle>联系我：epidermal6589@outlook.com</subtitle>
+    <logo>https://gnopeag.github.io/images/avatar.png</logo>
+    <icon>https://gnopeag.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gnopeag</rights>
+    <entry>
+        <title type="html"><![CDATA[Github Copilot Free 现已推出！]]></title>
+        <id>https://gnopeag.github.io/post/copilot-free/</id>
+        <link href="https://gnopeag.github.io/post/copilot-free/">
+        </link>
+        <updated>2024-12-19T03:00:00.000Z</updated>
+    </entry>
+</feed>
